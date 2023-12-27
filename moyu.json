@@ -471,19 +471,6 @@
       "timeout": 60
     },
     {
-      "key": "huahai",
-      "name": "1080P💘花海|弹幕",
-      "type": 3,
-      "api": "csp_Jianpian",
-      "jar": "./jar/myok.jar",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": {
-        "danmu": true
-      }
-    },
-    {
       "key": "小胡",
       "name": "1080P💘小明",
       "searchable": 1,
